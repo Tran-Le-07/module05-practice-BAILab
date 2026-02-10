@@ -5,7 +5,7 @@
 - Cleaned and filtered the dataset
 - Calculated descriptive statistics
 - Created a scatter plot of sepal length and petal length
-- Export cleaned data and visualization
+- Export cleaned dataset and visualization
 # Insights from statistics: 
 - Sepal measurements vary less than petal measurements, indicating petals show more spread between flowers.
 - Mean and median for each feature are close, suggesting there is no extreme skew in the distributions.
